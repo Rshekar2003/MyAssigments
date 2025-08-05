@@ -1,4 +1,4 @@
-package com.week2.day1;
+package com.week2.day2;
 
 import java.time.Duration;
 
@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Select;
 
 
-public class LaunchBrowser {
+public class CreateLead {
 
 	public static void main(String[] args) {		
 //		ChromeDriver driver = new ChromeDriver();
